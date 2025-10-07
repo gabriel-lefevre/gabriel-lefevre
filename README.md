@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Gabriel LEFEVRE
+# 👋 Bonjour à toi lecteur, je suis Gabriel LEFEVRE
 
 <div align="center">
   
