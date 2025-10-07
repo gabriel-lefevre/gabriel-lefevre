@@ -1,17 +1,137 @@
-# 💫 About Me:
-🚀 I am currently working on:<br>An AI-based automation tool as a software administrator in a medical analysis laboratory management company.<br>🤝 I'm looking to collaborate on :<br>Computer vision and AI projects, open-source machine learning initiatives, and innovative software solutions for my first full-time engineering role<br>🤔 I'm looking for help with :<br>Learning new technologies and programming languages, as well as best practices for ML model deployment and production environments<br>🌱 I'm currently learning :<br>Advanced PyTorch and TensorFlow techniques, exploring cutting-edge deep learning architectures and MLOps practices<br>💬 Ask me about :<br>Computer vision, neural networks, image processing, and building practical AI solutions for real-world applications<br>⚡ Fun fact :<br>I enjoy experimenting with AI models - my latest project tries to predict a company's stock prices using market sentiment analysis!
+# 👋 Bonjour, je suis Gabriel LEFEVRE
 
+<div align="center">
+  
+### 🤖 Ingénieur IA & Computer Vision | 🏥 Spécialiste Imagerie Médicale
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-lefevre-4a957a281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel.lefevre0@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-lefevre-4a957a281) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel.lefevre0@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/gabriel-lefevre?label=Follow&style=social)](https://github.com/gabriel-lefevre)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gaby-95&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gaby-95&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaby-95&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gaby-95&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## 🚀 À propos de moi
+
+Ingénieur diplômé de l'ISEN, je développe des **solutions d'IA appliquées à l'imagerie médicale** et l'automatisation intelligente. Passionné par l'innovation technologique, je combine deep learning, computer vision et bio-informatique pour créer des outils concrets au service de la santé.
+
+🔭 **Dernièrement** : Développement d'un pipeline IA (OCR + NLP) pour l'automatisation de l'extraction d'informations médicales chez Inovie Groupe  
+🎓 **Diplôme** : Ingénieur ISEN - Spécialité Technologies Médicales & IA (2020-2025)  
+🌱 **En apprentissage** : MLOps, architectures deep learning avancées, déploiement de modèles en production  
+💡 **Expertise** : Computer vision, segmentation d'images médicales, réseaux de neurones, PyTorch/TensorFlow
+
+---
+
+## 🛠️ Stack Technique
+
+### Langages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### IA & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Data Science & Visualisation
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+### Frameworks & Outils
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Hardware & Systèmes
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🔥 Projets Phares
+
+### 🏥 [Thyroid Nodule Segmentation](https://github.com/gabriel-lefevre/thyroid-nodule-segmentation)
+Segmentation de nodules thyroïdiens sur images échographiques avec U-Net (ResNet-50/VGG16)
+- **Tech** : PyTorch, Flask, MLOps pipeline complet
+- **Impact** : Démonstrateur IA médicale avec interface web intuitive
+- ⭐ **Star** ce projet si vous le trouvez intéressant !
+
+### 🩺 Pipeline d'extraction médicale (Inovie Groupe)
+Automatisation OCR + NLP pour l'extraction d'informations depuis ordonnances
+- **Résultat** : -70% du temps de paramétrage manuel
+- **Conformité** : Solution conforme RGPD pour 20 000 patients/jour
+
+### 🧠 Interface Scanometrics (DIT, Allemagne)
+Application d'analyse IRM par IA pour neurologues et neuroradiologues
+- Transformation d'un outil CLI en interface intuitive
+- Collaboration internationale en deep learning
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=gabriel-lefevre&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=gabriel-lefevre&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lefevre&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=gabriel-lefevre&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🤝 Collaboration
+
+Je recherche activement des opportunités pour mon **premier poste d'ingénieur à temps plein** ! Je suis particulièrement intéressé par :
+
+- 🔬 Projets de computer vision et IA appliquée
+- 🏥 Solutions d'imagerie médicale et santé numérique
+- 🌐 Initiatives open-source en machine learning
+- 🚀 Systèmes d'automatisation intelligente
+
+💬 **Contactez-moi** pour discuter de collaborations, d'opportunités professionnelles ou simplement échanger sur l'IA et le traitement d'images !
+
+---
+
+## ⚡ Fun Facts
+
+- 🏋️ Passionné de powerlifting en dehors du code
+- ♟️ Joueur d'échecs en ligne
+- 📚 Fan de science-fiction et veille technologique constante
+- 🤖 Dernier projet perso : prédiction de cours boursiers par analyse de sentiment de marché
+
+---
+
+<div align="center">
+  
+### 📫 Restons en contact !
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-lefevre-4a957a281) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.lefevre0@gmail.com)
+
+**✨ Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter.**
