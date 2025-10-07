@@ -16,8 +16,8 @@
 
 Ingénieur diplômé de l'ISEN, je développe des **solutions d'IA appliquées à l'imagerie médicale** et l'automatisation intelligente. Passionné par l'innovation technologique, je combine deep learning, computer vision et bio-informatique pour créer des outils concrets au service de la santé.
 
-🔭 **Dernièrement** : Développement d'un pipeline IA (OCR + NLP) pour l'automatisation de l'extraction d'informations médicales chez Inovie Groupe  
-🎓 **Diplôme** : Ingénieur ISEN - Spécialité Technologies Médicales & IA (2020-2025)  
+🔭 **Actuellement** : Développement d'un pipeline IA (OCR + NLP) pour l'automatisation de l'extraction d'informations médicales chez Inovie Groupe  
+🎓 **Diplôme** : Ingénieur ISEN - Spécialité Traitement d'images & IA (2020-2025)  
 🌱 **En apprentissage** : MLOps, architectures deep learning avancées, déploiement de modèles en production  
 💡 **Expertise** : Computer vision, segmentation d'images médicales, réseaux de neurones, PyTorch/TensorFlow
 
@@ -63,6 +63,13 @@ Ingénieur diplômé de l'ISEN, je développe des **solutions d'IA appliquées �
 
 ## 🔥 Projets Phares
 
+### 🧠 [ScanOMetrics - MRI Analysis GUI](https://github.com/SCAN-NRAD/ScanOMetrics)
+**Contribution open-source** : Interface graphique pour l'analyse IRM et modélisation normative
+- **Tech** : Python, Deep Learning, 3D Visualization, Medical Imaging
+- **Impact** : Utilisé dans 4+ publications scientifiques en neurologie
+- **Contexte** : Stage international (Deggendorf Institute of Technology, Allemagne)
+- ⭐ Projet cité dans des recherches sur Alzheimer, épilepsie et maladies neurodégénératives
+
 ### 🏥 [Thyroid Nodule Segmentation](https://github.com/gabriel-lefevre/thyroid-nodule-segmentation)
 Segmentation de nodules thyroïdiens sur images échographiques avec U-Net (ResNet-50/VGG16)
 - **Tech** : PyTorch, Flask, MLOps pipeline complet
@@ -73,11 +80,23 @@ Segmentation de nodules thyroïdiens sur images échographiques avec U-Net (ResN
 Automatisation OCR + NLP pour l'extraction d'informations depuis ordonnances
 - **Résultat** : -70% du temps de paramétrage manuel
 - **Conformité** : Solution conforme RGPD pour 20 000 patients/jour
+- **Environnement** : Production avec 150 laboratoires, 1 600 utilisateurs
 
-### 🧠 Interface Scanometrics (DIT, Allemagne)
-Application d'analyse IRM par IA pour neurologues et neuroradiologues
-- Transformation d'un outil CLI en interface intuitive
-- Collaboration internationale en deep learning
+---
+
+## 💼 Impact Professionnel
+
+> 💡 **Mon profil GitHub reflète principalement mes projets académiques et open-source.**  
+> **Mes contributions professionnelles majeures** sont développées en environnement privé (Inovie Groupe, DIT).
+
+### 🎯 Réalisations Clés
+
+| Projet | Impact | Technologies |
+|--------|--------|--------------|
+| **Pipeline OCR Medical** | ⚡ -70% temps de traitement<br>🏥 20,000 patients/jour | Python, NLP, OCR, RGPD |
+| **ScanOMetrics UI** | 🧠 Utilisé par neurologues<br>🌍 Collaboration internationale | PyTorch, Streamlit, Medical Imaging |
+| **Thyroid Segmentation** | 🎓 Projet académique complet<br>⭐ Démonstrateur MLOps | U-Net, Flask, Docker |
+| **Système Multi-sites** | 🏢 150 laboratoires<br>👥 1,600 utilisateurs | Administration système, Sécurité |
 
 ---
 
@@ -87,11 +106,11 @@ Application d'analyse IRM par IA pour neurologues et neuroradiologues
   
 ![](https://github-readme-stats.vercel.app/api?username=gabriel-lefevre&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=gabriel-lefevre&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lefevre&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+> 📌 **Note** : Ces statistiques ne reflètent que mes contributions publiques. Mes projets professionnels principaux sont hébergés en environnement privé.
 
 ---
 
@@ -135,3 +154,7 @@ Je recherche activement des opportunités pour mon **premier poste d'ingénieur 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.lefevre0@gmail.com)
 
 **✨ Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=gabriel-lefevre&color=blueviolet&style=flat-square)
+
+</div>
