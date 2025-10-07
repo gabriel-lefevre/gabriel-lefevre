@@ -16,7 +16,7 @@
 
 Ingénieur diplômé de l'ISEN, je développe des **solutions d'IA appliquées à l'imagerie médicale** et l'automatisation intelligente. Passionné par l'innovation technologique, je combine deep learning, computer vision et bio-informatique pour créer des outils concrets au service de la santé.
 
-🔭 **Actuellement** : Développement d'un pipeline IA (OCR + NLP) pour l'automatisation de l'extraction d'informations médicales chez Inovie Groupe  
+🔭 **Dernièrement** : Développement d'un pipeline IA (OCR + NLP) pour l'automatisation de l'extraction d'informations médicales chez Inovie Groupe  
 🎓 **Diplôme** : Ingénieur ISEN - Spécialité Traitement d'images & IA (2020-2025)  
 🌱 **En apprentissage** : MLOps, architectures deep learning avancées, déploiement de modèles en production  
 💡 **Expertise** : Computer vision, segmentation d'images médicales, réseaux de neurones, PyTorch/TensorFlow
@@ -96,7 +96,6 @@ Automatisation OCR + NLP pour l'extraction d'informations depuis ordonnances
 | **Pipeline OCR Medical** | ⚡ -70% temps de traitement<br>🏥 20,000 patients/jour | Python, NLP, OCR, RGPD |
 | **ScanOMetrics UI** | 🧠 Utilisé par neurologues<br>🌍 Collaboration internationale | PyTorch, Streamlit, Medical Imaging |
 | **Thyroid Segmentation** | 🎓 Projet académique complet<br>⭐ Démonstrateur MLOps | U-Net, Flask, Docker |
-| **Système Multi-sites** | 🏢 150 laboratoires<br>👥 1,600 utilisateurs | Administration système, Sécurité |
 
 ---
 
@@ -154,7 +153,4 @@ Je recherche activement des opportunités pour mon **premier poste d'ingénieur 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.lefevre0@gmail.com)
 
 **✨ Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me contacter.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=gabriel-lefevre&color=blueviolet&style=flat-square)
-
 </div>
